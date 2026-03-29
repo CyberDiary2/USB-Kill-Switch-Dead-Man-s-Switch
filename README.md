@@ -148,8 +148,8 @@ Free to use, modify, and distribute. Use at your own risk.
 -andrew@cyberdiary.net
 
 If you found this useful and would like to buy me a slice of pizza:
-BTC: bc1qm8x8ksce54ueqdvft8tp3pnh0npu5a6p8ql8mk
-ETH: 0xed1681351E6C2F5342Fc9eF53ac58081C65808db
+</br> BTC: bc1qm8x8ksce54ueqdvft8tp3pnh0npu5a6p8ql8mk
+</br> ETH: 0xed1681351E6C2F5342Fc9eF53ac58081C65808db
 ---
 
 **Tip**: Use a distinctive USB stick or device that you won't accidentally unplug!
