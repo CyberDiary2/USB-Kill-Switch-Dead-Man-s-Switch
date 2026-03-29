@@ -2,6 +2,12 @@
 """
 USB Kill Switch - Shuts down laptop when USB device disconnects
 Lightweight security tool for Linux systems with encrypted drives
+Free to use, modify, and distribute. Use at your own risk.
+-andrew@cyberdiary.net
+If you found this useful and would like to donate a slice of pizza:
+BTC: bc1qm8x8ksce54ueqdvft8tp3pnh0npu5a6p8ql8mk
+ETH: 0xed1681351E6C2F5342Fc9eF53ac58081C65808db
+Thank you
 """
 
 import tkinter as tk

@@ -52,7 +52,7 @@ Or double-click the file if your file manager supports it.
 3. **Click "START MONITORING"** - Monitoring is now ACTIVE
 4. **To stop**: Click "STOP" button
 
-### ⚠️ Important Notes
+### Important Notes
 
 - **When monitoring is active**, disconnecting the USB device will IMMEDIATELY shut down your laptop
 - Test it first in a safe environment!
@@ -130,12 +130,12 @@ sudo systemctl start usb-killswitch.service
 
 ## Security Considerations
 
-✅ **Good for:**
+ **Good for:**
 - Physical theft protection (laptop grab-and-run)
 - Quick data protection in emergency
 - Leaving laptop unattended in public spaces
 
-❌ **Not protection against:**
+ **Not protection against:**
 - Skilled attackers with time (they can boot from USB, remove drive, etc.)
 - Network attacks
 - Malware already on the system
@@ -145,7 +145,11 @@ sudo systemctl start usb-killswitch.service
 ## License
 
 Free to use, modify, and distribute. Use at your own risk.
+-andrew@cyberdiary.net
 
+If you found this useful and would like to buy me a slice of pizza:
+BTC: bc1qm8x8ksce54ueqdvft8tp3pnh0npu5a6p8ql8mk
+ETH: 0xed1681351E6C2F5342Fc9eF53ac58081C65808db
 ---
 
-**Pro tip**: Use a distinctive USB stick or device that you won't accidentally unplug!
+**Tip**: Use a distinctive USB stick or device that you won't accidentally unplug!
