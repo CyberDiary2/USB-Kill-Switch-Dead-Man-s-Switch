@@ -1,4 +1,4 @@
-# USB Kill Switch 🔒
+# USB Kill Switch 
 
 A lightweight security tool for Linux laptops that automatically shuts down your system when a monitored USB device (like a magnetic breakaway cable) disconnects.
 
